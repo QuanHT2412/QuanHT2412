@@ -33,38 +33,38 @@ Software Engineering graduate from **FPT University** (April 2026), focused on *
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-ff69b4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-ff69b4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-ff69b4?style=for-the-badge&logo=nuget&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ff69b4?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-ff69b4?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-ff69b4?style=for-the-badge&logo=google&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-21262d?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
+![.NET](https://img.shields.io/badge/.NET-21262d?style=for-the-badge&logo=dotnet&logoColor=c9d1d9)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-21262d?style=for-the-badge&logo=dotnet&logoColor=c9d1d9)
+![EF Core](https://img.shields.io/badge/EF%20Core-21262d?style=for-the-badge&logo=nuget&logoColor=c9d1d9)
+![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-21262d?style=for-the-badge&logo=springboot&logoColor=c9d1d9)
+![JWT](https://img.shields.io/badge/JWT-21262d?style=for-the-badge&logo=jsonwebtokens&logoColor=c9d1d9)
+![gRPC](https://img.shields.io/badge/gRPC-21262d?style=for-the-badge&logo=google&logoColor=c9d1d9)
 
 **Databases & Messaging**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-ff69b4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ff69b4?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff69b4?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=c9d1d9)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-21262d?style=for-the-badge&logo=microsoftsqlserver&logoColor=c9d1d9)
+![Redis](https://img.shields.io/badge/Redis-21262d?style=for-the-badge&logo=redis&logoColor=c9d1d9)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=for-the-badge&logo=rabbitmq&logoColor=c9d1d9)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-ff69b4?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=c9d1d9)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=nextdotjs&logoColor=c9d1d9)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=c9d1d9)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=c9d1d9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss&logoColor=c9d1d9)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-21262d?style=for-the-badge&logo=redux&logoColor=c9d1d9)
 
 **Tooling & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ff69b4?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-ff69b4?style=for-the-badge&logo=swagger&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit%20%2B%20Moq-ff69b4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=c9d1d9)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21262d?style=for-the-badge&logo=githubactions&logoColor=c9d1d9)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=c9d1d9)
+![Swagger](https://img.shields.io/badge/Swagger-21262d?style=for-the-badge&logo=swagger&logoColor=c9d1d9)
+![xUnit](https://img.shields.io/badge/xUnit%20%2B%20Moq-21262d?style=for-the-badge&logo=dotnet&logoColor=c9d1d9)
 
 ---
 
